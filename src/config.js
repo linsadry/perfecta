@@ -14,7 +14,7 @@ export const SUPABASE_KEY = "sb_publishable_luFo8Pk5c86scyMctz3VAQ_y61A1S3J";
 //      http://localhost:5173
 //      https://SEU-PROJETO.pages.dev
 // 4. Cole o Client ID abaixo:
-export const GCAL_CLIENT_ID = "COLE_SEU_CLIENT_ID_AQUI.apps.googleusercontent.com";
+export const GCAL_CLIENT_ID = "1055662984476-8r2r72difkm5a4uvh4dk3qqb6mtjehig.apps.googleusercontent.com";
 
 // ── PALAVRAS-CHAVE PARA DETECÇÃO DE PERFIL ────────────────────────────────────
 export const GCAL_KEYWORDS = {
